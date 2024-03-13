@@ -10,6 +10,10 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25e882af40ac6e84da98721f20b635c9327f7830190f8d3968bb5bb23ba9cead/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f72656163742d312d6c6f676f2d626c61636b2d616e642d77686974652e706e67"><img src="https://camo.githubusercontent.com/25e882af40ac6e84da98721f20b635c9327f7830190f8d3968bb5bb23ba9cead/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f72656163742d312d6c6f676f2d626c61636b2d616e642d77686974652e706e67" width="30px" data-canonical-src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3058bf96abd4cedea36da68bc6bce659e643d2860106919f5bc697906ce70efd/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f72656475782d6c6f676f2d626c61636b2d616e642d77686974652e706e67"><img src="https://camo.githubusercontent.com/3058bf96abd4cedea36da68bc6bce659e643d2860106919f5bc697906ce70efd/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f72656475782d6c6f676f2d626c61636b2d616e642d77686974652e706e67" width="30px" data-canonical-src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" style="max-width: 100%;"></a></code>
 
+<br>
+
+- &nbsp; How to reach me: [umidbek](https://t.me/umidbekruzmetov) or [gmail](mailto:umidbekruzmetov309@gmail.com)
+
 
 <!--
 **Umid2720/Umid2720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
