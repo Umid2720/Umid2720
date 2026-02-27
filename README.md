@@ -54,16 +54,6 @@ Telegram: **@umidbekruzmetov**
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Umid2720&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umid2720&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
-
-</p>
-gahr
-<p align="center">
-
 <img height="180"
 src="https://streak-stats.demolab.com?user=Umid2720&theme=tokyonight&hide_border=true&v=1"/>
 
