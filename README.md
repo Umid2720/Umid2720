@@ -9,12 +9,6 @@ Frontend Engineer
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&width=600&lines=Frontend+Engineer;React+Developer;Vue+Developer;Next.js+Developer;Nuxt.js+Developer" />
-
-</p>
-
-<p align="center">
 📍 Uzbekistan, Khorezm
 </p>
 
