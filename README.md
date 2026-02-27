@@ -71,10 +71,6 @@ src="https://streak-stats.demolab.com?user=Umid2720&theme=tokyonight&hide_border
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake 
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Umid2720/Umid2720/output/snake.svg" />
-
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Umid2720/Umid2720/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
